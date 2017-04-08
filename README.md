@@ -1,0 +1,2 @@
+# TheIThinkedImportantPeopleInTheProgrammingWorld
+with nationalities and job careeres
