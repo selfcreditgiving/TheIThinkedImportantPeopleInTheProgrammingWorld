@@ -47,3 +47,13 @@ Typescript
 bootstrap
 
 
+CoffeeScript
+
+javascript libraries /frameworks
+
+UnderScore
+
+BackBone
+
+define a class
+
